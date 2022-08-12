@@ -1,11 +1,6 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-GB_SERVICE_DESK-red)](https://www.youtube.com/channel/UCABzWeu3n5m7JqdWQij4AlQ)
-[![Linkedin Badge](https://img.shields.io/badge/-Bhushan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[
-](https://www.linkedin.com/in/bhushan-gavhane-aa959a248/))](https://www.linkedin.com/in/bhushan-gavhane-aa959a248/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aaka[
-](https://www.linkedin.com/in/bhushan-gavhane-aa959a248/)sh-)
 
 I'm
 Full Stack Solution Architect
